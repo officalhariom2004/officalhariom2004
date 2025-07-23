@@ -1,26 +1,87 @@
-<h1 align="center">Hi 👋, I'm Hari om</h1>
-<h3 align="center">A passionate Multiend developer from India</h3>
+<div align="center">
+  
+  # 01001000 01100001 01110010 01101001 01101111 01101101
+  
+  ![Matrix Rain](https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,100:006400&height=200&section=header&text=HARIOM&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Coding%20in%20the%20Matrix&descAlignY=60&descAlign=50)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=officalhariom2004&label=Profile%20views&color=0e75b6&style=flat" alt="officalhariom2004" /> </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=officalhariom2004" alt="officalhariom2004" /></a> </p>
-
-- 🌱 I’m currently learning **C**
-
-- 📫 How to reach me **hariom.21242@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/offical_hariom_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="offical_hariom_2004" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;Full+Stack+Engineer;Cybersecurity+Enthusiast;Continuous+Learner" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 📊 Futuristic Dashboard
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=officalhariom2004&show_icons=true&locale=en&layout=compact" alt="officalhariom2004" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=officalhariom2004&show_icons=true&theme=matrix&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officalhariom2004&layout=compact&langs_count=7&theme=matrix"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=officalhariom2004&show_icons=true&locale=en" alt="officalhariom2004" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=officalhariom2004&theme=matrix" alt="GitHub Streak Stats" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=officalhariom2004&" alt="officalhariom2004" /></p>
+<br>
+
+## 💻 Tech Stack
+
+```javascript
+const hariom = {
+  languages: ["JavaScript", "Python", "Java", "C++", "TypeScript"],
+  frameworks: ["React", "Node.js", "Express", "Django", "Spring Boot"],
+  devOps: ["Docker", "Kubernetes", "AWS", "CI/CD", "Git"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+  currentFocus: "Building scalable applications with modern architecture",
+  challenge: "One commit every day"
+}
+```
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
+## 🔐 Hacker's Corner
+
+```
+01001000 01100001 01110000 01110000 01111001 00100000 01000011 01101111 01100100 01101001 01101110 01100111 00100001
+```
+
+<details>
+  <summary>⚡ Terminal Access</summary>
+  <br>
+  <pre>
+    $ whoami
+    > Hariom - Developer | Programmer | Tech Enthusiast
+    
+    $ cat skills.txt
+    > Problem Solving
+    > Full Stack Development
+    > System Design
+    > Database Optimization
+    > Security Protocols
+    
+    $ ./run_mission
+    > Mission: Creating elegant code one commit at a time
+  </pre>
+</details>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/officalhariom2004/officalhariom2004/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<!-- Matrix effect footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,100:006400&height=120&section=footer&text=ACCESS_GRANTED&fontSize=30&fontColor=ffffff&animation=blinking"/>
+</div>
