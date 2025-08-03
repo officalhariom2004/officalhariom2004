@@ -92,7 +92,7 @@
 ```
 ╔═══════════════════════════ SYSTEM INFORMATION ════════════════════════════╗
 ║                                                                           ║
-║  CODENAME: ❤️√͢ᴋᏉᎥҞครh                                                    ║
+║  CODENAME: ❤️ʜᴀʀɪᎧᎷ✓                                                    ║
 ║  SPECIALTY: Multinet Development & C Programming                          ║
 ║  STATUS: Currently enhancing system knowledge of C language               ║
 ║  LOCATION: India                                                          ║
