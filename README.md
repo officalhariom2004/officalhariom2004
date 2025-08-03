@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Dynamic Terminal Header with Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&height=70&lines=SYSTEM+BREACH+DETECTED;ACCESSING+MAINFRAME...;IDENTITY+CONFIRMED%3A+%E2%9D%A4%EF%B8%8F%E2%88%9A%CD%A2%E1%B4%8B%E1%8F%89%E1%8E%A5%E0%B8%84%E0%B8%A3h;NEURAL+LINK+ESTABLISHED)](https://github.com/CypherNinjaa)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&height=70&lines=SYSTEM+BREACH+DETECTED;ACCESSING+MAINFRAME...;IDENTITY+CONFIRMED%3A+%E2%9D%A4%EF%B8%8F%E2%88%9A%CD%A2%E1%B4%8B%E1%8F%89%E1%8E%A5%E0%B8%84%E0%B8%A3h;NEURAL+LINK+ESTABLISHED)]
 
   <!-- Cyberpunk Badge & Counter -->
   <a href="#"><img src="https://img.shields.io/badge/SYSTEM_TIME-2025--06--01_17:58:42-0000FF?style=for-the-badge&labelColor=black&logo=clockify&logoColor=white" alt="System Time"></a>
